@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to satyamBank accounts related production APIs "
+  message: "Welcome to satyamBank accounts related prod APIs "
   contactDetails:
     name: "KavitiSatya - Product Owner"
     email: "{cipher}30333e7c66ab86dab0a79816e47bb19c69c89944401753df7f11087c2a0252700b503b512a2555bdbf6a40d5bf4aaa3e"
