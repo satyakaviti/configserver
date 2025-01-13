@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to satyamBank cards related prod APIs "
+  contactDetails:
+    name: "KavitiSatya - Product Owner"
+    email: "prodOwner@satyamBank.com"
+  onCallSupport:
+    - (+91) 9515777777
+    - (+91) 203-0384

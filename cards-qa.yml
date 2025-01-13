@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "welcome to satyamBank cards related APIs"
+  contactDetails:
+    name: "kaviti -QA Lead"
+    email: "QALead@styamBank.com"
+  onCallSupport:
+    - (+91) 9278567469638
+    - (+91) 58634548685464

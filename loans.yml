@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to satyamBank cards related local APIs "
+  contactDetails:
+    name: "satya_kaviti - Developer"
+    email: "developer@satyamBank.com"
+  onCallSupport:
+    - (+91) 9515777777
+    - (+91) 8885558855
+

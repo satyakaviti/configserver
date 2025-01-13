@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to satyamBank accounts related local APIs "
+  contactDetails:
+    name: "satya_kaviti - Developer"
+    email: "developer@satyamBank.com"
+  onCallSupport:
+    - (+91) 9515777777
+    - (+91) 8885558855
